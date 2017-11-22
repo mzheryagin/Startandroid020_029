@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0201_SimpleAnimation" />
+            <option value="$PROJECT_DIR$/P0211_TwoActivity" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

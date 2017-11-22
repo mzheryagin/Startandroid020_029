@@ -1,1 +1,1 @@
-include ':app', ':P0201_SimpleAnimation'
+include ':app', ':P0201_SimpleAnimation', ':P0211_TwoActivity'

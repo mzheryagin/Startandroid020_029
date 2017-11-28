@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/P0241_TwoActivityState" />
             <option value="$PROJECT_DIR$/P0261_IntentFilter" />
             <option value="$PROJECT_DIR$/P0271_GetIntentAction" />
+            <option value="$PROJECT_DIR$/P0281_IntentExtras" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

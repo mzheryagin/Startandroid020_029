@@ -1,1 +1,1 @@
-include ':app', ':P0201_SimpleAnimation', ':P0211_TwoActivity', ':P0231_OneActivityState', ':P0241_TwoActivityState', ':P0261_IntentFilter', ':P0271_GetIntentAction'
+include ':app', ':P0201_SimpleAnimation', ':P0211_TwoActivity', ':P0231_OneActivityState', ':P0241_TwoActivityState', ':P0261_IntentFilter', ':P0271_GetIntentAction', ':P0281_IntentExtras'
